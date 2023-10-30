@@ -1,5 +1,5 @@
 body {
-background: [powderblue];
+background: [blue];
 font-family: TimesNewRoman;
 }
 h1 {
@@ -10,7 +10,7 @@ text-align: center;
 display: flex;
 padding: 10px;
 margin: 10px;
-background: [powderblue];
+background: [blue];
 }
 .assign img {
 width: 200px;
