@@ -8,16 +8,16 @@ h1 {
 color: #000000;
 <h1 style="text-align:center;"</h1>
 width: 100%;
-display:block;
+<h1 style="display:block;"</h1>
 }
 h1:hover {
  color: #5374E7;
- <h1 style="text-align:center;"
+ <h1 style="text-align:center;"</h1>
  width: 100%;
- <h1 style="display:block;"
+ <h1 style="display:block;"</h1>
 }
 .assign {
-<h1 style="display:block;"
+<h1 style="display:block;"</h1>
 padding: 10px;
 margin: 10px;
 border-radius: 20px
@@ -31,10 +31,10 @@ padding: 10px;
 border: 2px "dashed" #000000;
 }
 a {
-  text-decoration: none;
+  <h1 style="text-decoration: none;"</h1>
  color: #000000;
 }
 a:hover {
- text-decoration: none; 
+ <h1 style="text-decoration: none;"</h1>
  color: #E874E7; 
 }
