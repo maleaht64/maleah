@@ -1,12 +1,12 @@
 body {
 background: #FFB6C1;
-font-family: TimesNewRoman;
-display:flex
+<h1 style="font-family: TimesNewRoman;"</h1>
+<h1 style="display:flex;"</h1>
 flex-wrap:wrap
 }
 h1 {
 color: #000000;
-text-align:center;
+<h1 style="text-align:center;"</h1>
 width: 100%;
 display:block;
 }
