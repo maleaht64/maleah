@@ -1,8 +1,8 @@
 body {
 background: #FFB6C1;
 font-family: TimesNewRoman;
-display:flex;
-flex-wrap:wrap;
+display:flex
+flex-wrap:wrap
 }
 h1 {
 color: #000000;
