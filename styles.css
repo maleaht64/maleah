@@ -31,10 +31,10 @@ padding: 10px;
 border: 2px "dashed" #000000;
 }
 a {
-  <h1 style="text-decoration: none;"</h1>
  color: #000000;
+  <h1 style="text-decoration: none;"</h1>
 }
 a:hover {
- <h1 style="text-decoration: none;"</h1>
  color: #E874E7; 
+ <h1 style="text-decoration: none;"</h1>
 }
