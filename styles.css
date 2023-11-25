@@ -12,12 +12,12 @@ display:block;
 }
 h1:hover {
  color: #5374E7;
- text-align:center;
+ <h1 style="text-align:center;"
  width: 100%;
- display: block;
+ <h1 style="display:block;"
 }
 .assign {
-display: block;
+<h1 style="display:block;"
 padding: 10px;
 margin: 10px;
 border-radius: 20px
@@ -28,7 +28,7 @@ background: #FFE4E1;
 .assign img {
 width: 200px;
 padding: 10px;
-border: 2px dashed #000000;
+border: 2px "dashed" #000000;
 }
 a {
   text-decoration: none;
