@@ -1,18 +1,34 @@
 body {
 background: #FFB6C1;
 font-family: TimesNewRoman;
+display: flex;
+flex-wrap: wrap;
 }
 h1 {
 color: Black;
 text-align: center;
+width: 100%;
+display: block;
 }
 .assign {
-display: flex;
+display: block;
 padding: 10px;
 margin: 10px;
+border-radius: 20px
+width: 20%;
+box-shadow: 8px 8px [pick a color]; 
 background: #FFE4E1;
 }
 .assign img {
 width: 200px;
 padding: 10px;
+border: 2px dashed black
+}
+a {
+  text-decoration: none;
+ color: black;
+}
+a:hover {
+ text-decoration: none; 
+ color: salmon; 
 }
