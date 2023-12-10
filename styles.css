@@ -1,6 +1,7 @@
 body {
 background: #FFB6C1;
 <h1 style="font-family: TimesNewRoman;"</h1>
+ <h1 style="text-align:center;"</h1>
 <h1 style="display:flex;"</h1>
 flex-wrap:wrap
 }
