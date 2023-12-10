@@ -1,14 +1,12 @@
 body {
 background: #FFB6C1;
-<h1 style="font-family: TimesNewRoman;"</h1>
- <h1 style="text-align:center;"</h1>
-<h1 style="display:flex;"</h1>
+font-family: TimesNewRoman;
+display:flex;
 flex-wrap:wrap
 }
 h1 {
 color: #000000;
 width: 100%;
-<h1 style="text-align:center;"</h1>
 <h1 style="display:block;"</h1>
 text-align: center;
 }
