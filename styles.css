@@ -1,43 +1,42 @@
 body {
-  background: #89CFF0;
-  font-family: Times New Roman
-  display: flex;
- flex-wrap: wrap;
+  background: #FFB6C1;
+  <h1 style="font-family: TimesNewRoman;"</h1>
+    <h1 style="text-align:center;"</h1>
+  <h1 style="display:flex;"</h1>
+  flex-wrap:wrap
 }
 h1 {
-  color: #673147
-  text-align: center;
+  color: #000000;
   width: 100%;
+  <h1 style="text-align:center;"</h1>
+  <h1 style="display:block;"</h1>
 }
 h1:hover {
- color: #5374E7;
- width: 100%;
-
-}
-a {
- text-decoration: none;
- color: #000000;
-}
-
-.assign {
-  background-color: grey;
-  margin: 10px;
-  padding: 10px;
-  border-radius: 20px;
-  width: 20%;
-  box-shadow: 8px 8px brown;
-}
-
-.assign img {
-width: 200px;
-padding: 10px;
-border: 2px "dashed" #000000;
-}
-
- 
-.assign img:hover {
-  width: 200px
-  margin: 10px;
-  border: 2px dotted 
-  color: #E874E7; 
-}
+  color: #5374E7;
+  width: 100%;
+  <h1 style="text-align:center;"</h1>
+  <h1 style="display:block;"</h1>
+  }
+  .assign {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px
+    width: 20%;
+    box-shadow: 8px 8px #C374E8;
+    background: #FFE4E1;
+    <h1 style="display:block;"</h1>
+    }
+    .assign img {
+    width: 200px;
+      padding: 10px;
+      border: 2px "dasheed" #000000;
+    }
+    a {
+      color: #000000;
+      <h1 style="text-decorating: none;"</h1>
+    }
+    a:hover {
+      color: #E874E7;
+      <h1 style="text-decoration: none;"</h1>
+    }
+      
